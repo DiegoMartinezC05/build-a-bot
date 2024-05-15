@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import HomePage from './components/HomePage.vue';
+import HomePage from './home/HomePage.vue';
 
 export default {
   name: 'App',
@@ -44,7 +44,7 @@ main{
 
 header{
   background-color: #999;
-  width: 1460px;
+  width: 1400px;
   margin: 0 auto;
 }
 
